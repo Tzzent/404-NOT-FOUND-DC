@@ -35,8 +35,6 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](https://user-images.githubusercontent.com/86677547/199314734-92858ffc-1f22-4537-86b2-d2f0cca27560.png)
 ![Opera Snapshot_2022-11-01_135214_index html](https://user-images.githubusercontent.com/86677547/199314734-92858ffc-1f22-4537-86b2-d2f0cca27560.png)
 
 
